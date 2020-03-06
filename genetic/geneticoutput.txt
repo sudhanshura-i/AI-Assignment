@@ -1,0 +1,48 @@
+enter no. of students n
+
+enter value of k for dividing students in k groups
+enter number of subjects you will take
+
+enter the marks of 1 subjects of Student no. 1
+
+enter the marks of 1 subjects of Student no. 2
+
+enter the marks of 1 subjects of Student no. 3
+
+enter the marks of 1 subjects of Student no. 4
+
+enter the marks of 1 subjects of Student no. 5
+
+enter the marks of 1 subjects of Student no. 6
+
+enter the marks of 1 subjects of Student no. 7
+
+enter the marks of 1 subjects of Student no. 8
+
+enter the marks of 1 subjects of Student no. 9
+
+enter the marks of 1 subjects of Student no. 10
+
+Initial_Population:
+2 2 1 1 3 0 1 2 3 4
+3 3 2 4 0 0 1 2 3 4
+1 2 4 0 0 1 2 3 4 0
+2 1 1 0 1 2 3 4 0 0
+1 2 0 1 2 3 4 0 0 0
+after 1st crossover-
+2 2 1 1 3 0 1 2 3 4
+2 1 1 0 1 2 3 4 4 0
+3 3 2 4 0 0 1 2 3 4
+1 2 4 0 0 1 2 3 0 0
+1 2 0 1 2 3 4 0 0 0
+the average marks of the students--
+4 5 6 7 8 9 0 12 34 45
+THE FINAL POPULATION
+3 2 1 3 3 2 2 1 4 0
+2 0 2 1 0 1 1 2 3 4
+1 2 0 1 2 3 1 3 0 4
+1 2 1 1 3 2 4 4 3 0
+2 2 2 0 0 1 1 2 3 4
+therefore the fitness value of each population in the final populations are as follows-
+972 1155 1692 1860 1873
+Total no. of generations :90
