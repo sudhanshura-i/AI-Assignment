@@ -1,0 +1,29 @@
+We have to give input alternatively after AI picks its move.
+Here value correspnding to player_1 represents input.
+ 
+1)Human vs AI
+
+n=15
+Computer_1 HAS WON THE TOSS:
+computer_1:2
+Player_1:2
+computer_1:2
+Player_1:5
+
+NOT PERMITED.TRY AGAIN
+Player_1:3
+computer_1:1
+Player_1:2
+computer_1:2
+
+
+2)AI vs AI
+n=11
+Computer_1 HAS WON THE TOSS:
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+Computer_1 won the game
+

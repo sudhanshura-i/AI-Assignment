@@ -1,0 +1,10 @@
+1)Human vs AI
+
+Computer_1 HAS WON THE TOSS:
+NOT PERMITED.TRY AGAIN
+Computer_1 won the game
+
+2)AI vs AI
+
+Computer_1 HAS WON THE TOSS:
+Computer_1 won the game
